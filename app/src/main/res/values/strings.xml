@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="details">Details</string>
+    <string name="cat_name_Peach">Peach</string>
+    <string name="cat_name_Snow">Snow</string>
+    <string name="cat_name_Pumpkin">Pumpkin</string>
+    <string name="cat_description_Peach">She likes eating peaches</string>
+    <string name="cat_description_Snow">She likes snowy weather</string>
+    <string name="cat_description_Pumpkin">He likes to scare people</string>
+    <string name="animal_application">Hello My Animal App</string>
+
+</resources>
